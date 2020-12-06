@@ -1,7 +1,6 @@
 import List from "./components/List";
 import Search from "./components/Search";
 import SingleMovie from "./components/SingleMovie";
-import Error from "./Error";
 import "./App.css";
 import {
 	BrowserRouter as Router,
